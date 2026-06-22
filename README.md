@@ -30,6 +30,16 @@ This project analyzes Zomato restaurant data to discover customer preferences, r
 - Zomato_Data_Analysis_Using_Python.ipynb
 - Zomato-data.csv
 - README.md
+## 📸 Project Screenshots
+
+### Visualization 1
+![Visualization 1](screenshots/zomato1.webp)
+
+### Visualization 2
+![Visualization 2](screenshots/zomato2.webp)
+
+### Visualization 3
+![Visualization 3](screenshots/zomato3.webp)
 
 ## 👨‍💻 Author
 Jeevan Madhagoni
